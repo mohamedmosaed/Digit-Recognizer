@@ -1,1 +1,1 @@
-# Digit-Recognizer
+# Kaggle_Projects
